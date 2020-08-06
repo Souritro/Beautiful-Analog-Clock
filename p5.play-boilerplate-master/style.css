@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+#clock{
+  color:lightsalmon;
+  font-size:60px;
+  font-family: 'Rowdies', cursive;
+  background-color:black;
+  padding:50px;
+}
